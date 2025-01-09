@@ -2,4 +2,4 @@
 
 ## team members
  - Othman
- - isiah
+ - isaiah
